@@ -56,7 +56,7 @@ function Header() {
     <div className="headerParentDiv">
       <div className="headerChildDiv">
         <div className="brandName">
-          <OlxLogo></OlxLogo>
+          <OlxLogo/>
         </div>
         <div className="placeSearch">
           <input type="text" 

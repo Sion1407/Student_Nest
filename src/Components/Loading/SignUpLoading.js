@@ -4,7 +4,8 @@ const SignUpLoading = () => {
   return (
     <div className="signup-loading">
       {/* <h1 className="title">Loading...</h1> */}
-      <div className="rainbow-marker-loader"></div>
+      {/* <div className="rainbow-marker-loader"></div> */}
+      <div class="loader"></div>
     </div>
   );
 };

@@ -12,6 +12,7 @@ function BarLoading() {
         <div className="bar bar6"></div>
         <div className="bar bar7"></div>
         <div className="bar bar8"></div>
+        {/* <div className="loader"></div> */}
       </div>
     </div>
   );
